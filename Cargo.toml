@@ -1,5 +1,4 @@
 [package]
-
 name = "calculator"
 version = "0.0.0"
 authors = [ "David Renshaw <dwrenshaw@sandstorm.io>"  ]
